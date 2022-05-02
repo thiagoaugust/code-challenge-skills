@@ -1,2 +1,2 @@
 # code-challenge-skills
-Projeto com diversos algoritmos com performance otimizada
+Projeto com diversos algoritmos de performance
